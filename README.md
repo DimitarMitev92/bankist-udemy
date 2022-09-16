@@ -1,6 +1,7 @@
 # Bankist
 
 A Fictional &amp; Minimalist Bank
+Exercise from Udemy - The Complete JavaScript Course 2022
 
 ## Live Demo
 

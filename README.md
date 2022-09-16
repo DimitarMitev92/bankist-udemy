@@ -36,4 +36,4 @@ A Fictional &amp; Minimalist Bank
 
 - HTML
 - CSS
-- JS (Main)
+- JavaScript
